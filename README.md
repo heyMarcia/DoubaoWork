@@ -4,5 +4,7 @@
 
 ## 目录结构
 
-- `knowledge-base/` —— 飞书公开知识库镜像（《先进团队 先用飞书》），作为 AI 任务的知识库 reference，内容与说明见 `knowledge-base/README.md`
+- `knowledge-base/` —— 知识库 reference 总目录
+  - `旧期内容存档_飞书公开知识库/` —— 飞书公开知识库镜像（《先进团队 先用飞书》），357 文件
+  - `rm-copilot-方案素材/` —— RM 销售经理 Copilot 的 M3 方案匹配素材库（产品能力地图、行业方案、标杆案例、适配判断指南）
 - 根目录 —— 后续放置 agent 的 yaml 等配置文件
